@@ -1,8 +1,18 @@
 .App {
   text-align: center;
-  background-color: #3d75e6;
 }
-
+body {
+  background-color: rgb(177, 118, 177);
+}
+.list {
+  list-style-type: none
+}
+.clear{
+  background-color: rgb(226, 105, 105);
+}
+.add {
+  background-color: rgb(127, 188, 127);
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
